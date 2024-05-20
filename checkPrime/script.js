@@ -25,7 +25,7 @@ function isPrime(num) {
   return true;
 }
 
-const checkFn = 10;
+const checkFn = 7;
 
 console.log(isPrime(checkFn));
 
